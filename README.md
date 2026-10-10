@@ -1,5 +1,5 @@
 # rbx-gen
-Generated roblox giftcard codes using the same format
+Generates roblox giftcard codes using the same format
 
 Works on online python so you can just run it there
 
